@@ -28,13 +28,17 @@ The work below is research on the overall trends at Elist, focused on the peak-C
 
 Sales grew aggressively from 2019 until 2020, before dropping gradually in 2021, at the heart of Covid-19, and then aggressively falling in 2022. Average Order Value (AOV) remained relatively flat during that period, varying by only $105.27 across the four years, and order counts continued to grow throughout 2021 before dropping by nearly 40% in 2022. Customer behavior changed initially by making smaller orders, but ordering just as often, in 2021, followed by an aggressive drop in orders in 2022, despite dollar amounts returning to prior years.
 
-<img width="1917" height="808" alt="image" src="https://github.com/user-attachments/assets/2e718958-2c21-45a4-addb-0a2cd0d06666" />
+## Region-Specific Trends
+
+<img width="1872" height="777" alt="image" src="https://github.com/user-attachments/assets/0c4353a1-81f4-4451-873d-ae798bb48d7b" />
 
 | Drop # | Date Range | High Point | Low Point | Drop |
 | --- | --- | --- | --- | --- |
-| 1 | 2020-2021 | 611158.18 | 314307.35 | --- |
-| 2 | 2021-2022 | 447820.36 | 252652.86 | --- |
-| 3 | Late 2022 | 224987.54 | 102029.06 | --- |
+| 1 | 2020-2021 | 611,158.18 | 314,307.35 | -49% |
+| 2 | 2021-2022 | 447,820.36 | 252,652.86 | -44% |
+| 3 | Late 2022 | 224,987.54 | 102,029.06 | -55% |
+
+The NA region takes up roughly 52% of all sales, and it had three large drops in sales, representing losses of 44%-55% of total sales. The other regions have similar falls, but NA retains the largest impact in sales throughout.
 
 # Monthly and Yearly Growth Rates
 ## AOV and Order Count
