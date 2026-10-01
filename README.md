@@ -30,7 +30,7 @@ Sales grew aggressively from 2019 until 2020, before dropping gradually in 2021,
 
 ## Region-Specific Trends
 
-<img width="1872" height="777" alt="image" src="https://github.com/user-attachments/assets/0c4353a1-81f4-4451-873d-ae798bb48d7b" />
+<img width="1872" height="777" alt="image" src="https://github.com/user-attachments/assets/3c2aa7f0-9cd9-4c27-96bb-e9a35aa68c32" />
 
 | Drop # | Date Range | High Point | Low Point | Drop |
 | --- | --- | --- | --- | --- |
