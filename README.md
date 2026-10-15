@@ -40,6 +40,23 @@ Sales grew aggressively from 2019 until 2020, before dropping gradually in 2021,
 
 The NA region takes up roughly 52% of all sales, and it had three large drops in sales, representing losses of 44%-55% of total sales. The other regions have similar falls, but NA retains the largest impact in sales throughout.
 
+### NA-Specific Sales Drops
+
+<img width="2147" height="981" alt="image" src="https://github.com/user-attachments/assets/7bf4abce-87b2-42ac-a146-56113758b378" />
+
+| Metric | Drop 1 <br> 2020 - 2021 | Drop 2 <br> 2021 - 2022 | Drop 3 <br> Late 2022 |
+| --- | --- | --- | --- |
+| **High Point in Sales** | $585,789.63 | $474,704.21 | $236,952.47 |
+| **Low Point in Sales** | $300,258.02 | $234,897.35 | $98,678.89 |
+| **Percentage Growth** | -49% | -51% | -58% |
+
+Looking at NA-only sales, the top three products (27in 4K Gaming Monitor, Apple Airpods Headphones, and Macbook Air Laptop) make up 86% of all sales. When ThinkPad Laptops are included, those four products account for 96% of total NA sales.
+
+By the end of 2020 all products are doing well into the first large drop in sales; with Apple Airpods Headphones and Macbook Air Laptop nearly tied for second place in sales. By February of 2021, sales for all four products have dropped by **49%**, with only the 27in 4K Gaming Monitor returning close to its original high of $189,399.24 in sales. The Macbook Air Laptop in particular fails to recover, taking a full year to reach only 65% of the prior high.
+
+By the end of 2021, the highest sales month is only 81% of the prior year, with only the 27in 4K Gaming Monitor bouncing back (with the 2021 high point being 98% of last year's high point). This is when the next large drop in sales occurs, and sales again drop by **51%**. All products follow the same trajectory as last year, except for the ThinkPad Laptops, which loses sales over five months instead of the standard two months. Macbook Air Laptops, still struggling more than other products to recover from the prior drop in sales, sheds half (48%) of its total sales again. The aftermath of this drop is very different; no products recover over the following year, with only Apple Airpods Headphones recovering the most with a high point 60% of it's high point last year...
+
+
 # Monthly and Yearly Growth Rates
 ## AOV and Order Count
 # Loyalty Program
