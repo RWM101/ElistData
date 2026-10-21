@@ -61,13 +61,18 @@ By the end of 2021, the highest sales month is only 81% of the prior year, with 
 
 <img width="3017" height="1055" alt="image" src="https://github.com/user-attachments/assets/56b4e5c6-03cd-4cd2-8f28-3834b99ef8ad" />
 
+## Sales Growth Rates
+
 Growth rates follow sales amounts relatively closely. Sales growth rates were quite strong in the first two years, until the end of 2020, growing to 150% of the value since January of 2019. 2021 and 2022 showed a gradual, steady decline from that high point, dropping to only a 50% increase from the original January 2019 value.
+
+## Order Count Growth Rates
 
 Order count was more steady, maintaining its high value throughout 2021. 2022 showed a steady decline, plummeting near the end of the year before bouncing back somewhat by December. All in all, like the sales growth, order counts increased overall by 50% over the four years.
 
+## AOV Growth Rates
+
 Average Order Value (AOV) was more volatile overall but over a narrower band of results. For a time, AOV was up about 40% before dropping by half over just a few months and continued dropping more aggressively than Sales and order count growth. Overall, AOV increased only 15% from 2019-2022.
 
-## AOV and Order Count
 # Loyalty Program
 ## AOV
 # Refund Rates
