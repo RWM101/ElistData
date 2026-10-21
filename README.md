@@ -58,6 +58,11 @@ By the end of 2021, the highest sales month is only 81% of the prior year, with 
 
 
 # Monthly and Yearly Growth Rates
+
+<img width="3017" height="1055" alt="image" src="https://github.com/user-attachments/assets/56b4e5c6-03cd-4cd2-8f28-3834b99ef8ad" />
+
+
+
 ## AOV and Order Count
 # Loyalty Program
 ## AOV
