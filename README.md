@@ -17,7 +17,8 @@ The work below is research on the overall trends at Elist, focused on the peak-C
 | asdf | asdf | asdf | asdf |
 
 # Sales Trends
-<img width="2396" height="886" alt="image" src="https://github.com/user-attachments/assets/18216b7b-e6db-4c94-ae66-68be4b0f943e" />
+
+<img width="2396" height="886" alt="image" src="https://github.com/user-attachments/assets/1742eecc-1347-484c-91bc-70e72fb50bd8" />
 
 | Year | Sales | AOV | Order Count |
 | --- | --- | --- | --- |
@@ -26,7 +27,7 @@ The work below is research on the overall trends at Elist, focused on the peak-C
 | 2021 | $9,127,894.44 | $254.71 | 35,858 |
 | 2022 | $4,957,579.85 | $229.91 | 21,565 |
 
-Sales grew aggressively from 2019 until 2020, before dropping gradually in 2021, at the heart of Covid-19, and then aggressively falling in 2022. Average Order Value (AOV) remained relatively flat during that period, varying by only $105.27 across the four years, and order counts continued to grow throughout 2021 before dropping by nearly 40% in 2022. Customer behavior changed initially by making smaller orders, but ordering just as often, in 2021, followed by an aggressive drop in orders in 2022, despite dollar amounts returning to prior years.
+Sales grew aggressively from 2019 until 2020, before dropping gradually in 2021, at the heart of Covid-19, and then aggressively falling in 2022. Customer behavior changed initially by making smaller orders, but ordering just as often, in 2021, followed by an aggressive drop in orders in 2022, despite dollar amounts returning to prior years. Average Order Value (AOV) remained relatively flat during that period, varying by only $105.27 across the four years, and order counts continued to grow throughout 2021 before dropping by nearly 40% in 2022.
 
 ## Region-Specific Trends
 
