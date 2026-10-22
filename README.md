@@ -75,6 +75,9 @@ Order count was more steady, maintaining its high value throughout 2021. 2022 sh
 Average Order Value (AOV) was more volatile overall but over a narrower band of results. For a time, AOV was up about 40% before dropping by half over just a few months and continued dropping more aggressively than Sales and order count growth. Overall, AOV increased only 15% from 2019-2022.
 
 # Loyalty Program
+
+<img width="2579" height="926" alt="image" src="https://github.com/user-attachments/assets/eeffb987-7a22-471e-bf5a-ae78b4cda6e8" />
+
 ## AOV
 # Refund Rates
 ## Apple Products and Refunds
