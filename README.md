@@ -14,7 +14,7 @@ The work below is research on the overall trends at Elist, focused on the peak-C
 
 | Sales | Growth | Loyalty | Refunds |
 | --- | --- | --- | --- |
-| asdf | asdf | asdf | asdf |
+| This is the paragraph where I summarize findings. <ul><li>Item 1</li> <li>Item 2</li><li>Item 3</li></ul> | This is the paragraph where I summarize findings. <ul><li>Item 1</li> <li>Item 2</li><li>Item 3</li></ul> | This is the paragraph where I summarize findings. <ul><li>Item 1</li> <li>Item 2</li><li>Item 3</li></ul> | This is the paragraph where I summarize findings. <ul><li>Item 1</li> <li>Item 2</li><li>Item 3</li></ul> |
 
 # Sales Trends
 
