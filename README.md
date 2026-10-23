@@ -80,9 +80,9 @@ Average Order Value (AOV) was more volatile overall but over a narrower band of 
 
 | Data Type | Inflection 1 | Summary | Inflection 2 | Summary |
 | --- | --- | --- | --- | --- |
-| **Sales Amount** | March 2021 | [Summary] | September 2022 | [Summary] |
-| **Order Count** | December 2020 | [Summary] | September 2022 | [Summary] |
-| **AOV** | June 2021 | [Summary] | [Date] | [Summary] |
+| **Sales Amount** | March 2021 | After a surge in sales, non-loyalty sales drop 51% over a course of three months, falling below loyalty sales numbers. | September 2022 | Sales hit their lowest point in the prior four years, with loyalty sales dropping below non-loyalty numbers. |
+| **Order Count** | December 2020 | Order counts trended upwards, with loyalty members growing faster and reaching parity with non-loyalty order counts. | September 2022 | Order counts are down for both loyalty and non-loyalty members, with loyalty counts stabilizing below non-loyalty order counts. |
+| **AOV** | June 2021 | AOV for non-loyalty members remained higher than loyalty members, particularly in 2021, averaging 40% higher than loyalty members. | October 2022  | After June 2021, non-loyalty member AOV rates averaged 11% lower than loyalty AOV. The last two months show slight increases among non-loyalty members. |
 
 Loyalty members are serving as a stabilizing force of more secure sales, serving as padding against market volatility.
 
