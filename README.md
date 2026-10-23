@@ -76,7 +76,8 @@ Average Order Value (AOV) was more volatile overall but over a narrower band of 
 
 # Loyalty Program
 
-<img width="2951" height="1056" alt="image" src="https://github.com/user-attachments/assets/b91a1edc-f88d-4b6a-a844-fbc221bdaffd" />
+<img width="2761" height="1056" alt="image" src="https://github.com/user-attachments/assets/c3991354-8d76-41cb-883f-02a789621b25" />
+
 
 ## AOV
 # Refund Rates
