@@ -78,8 +78,26 @@ Average Order Value (AOV) was more volatile overall but over a narrower band of 
 
 <img width="2761" height="1056" alt="image" src="https://github.com/user-attachments/assets/c3991354-8d76-41cb-883f-02a789621b25" />
 
+| Data Type | Inflection 1 | Summary | Inflection 2 | Summary |
+| --- | --- | --- | --- | --- |
+| **Sales Amount** | March 2021 | [Summary] | September 2022 | [Summary] |
+| **Order Count** | December 2020 | [Summary] | September 2022 | [Summary] |
+| **AOV** | June 2021 | [Summary] | [Date] | [Summary] |
 
-## AOV
+Loyalty members are serving as a stabilizing force of more secure sales, serving as padding against market volatility.
+
+Non-loyalty members were the majority of sales throughout 2019 and 2020. 2020 in particular, during the height of the Covid pandemic, saw an aggressive increase in sales among non-loyalty members, followed by an aggressive drop at the start of 2021, where non-loyalty member sales dropped 51% from December 2020 until March 2021. It took some time for the loyalty program to be beneficial, but with an inflection point in March of 2021, loyalty members were the larger source of income for a year and a half, until September of 2022.
+
+The change was due to steady growth of loyalty member purchasing habits; at the start it was only 2% of all sales, but reached parity with non-loyalty members at the start of 2021. It wasn't until October of 2022 that purchase amounts of loyalty members began to level out while non-loyalty members began to rise.
+
+### AOV
+
+Average Order Value (AOV) for loyalty members has remained very consistent after the first year, averaging $225 for all four years. Non-loyalty AOV has been higher (averaging $263) but slightly more volatile, spiking in orders during the height of the pandemic until June of 2021 where dropping below the AOV of loyalty members for the next year and a half.
+
+## Regional Differences Among Loyalty and Non-Loyalty Members
+
+
+
 # Refund Rates
 ## Apple Products and Refunds
 ### Apple Products
