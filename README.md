@@ -94,8 +94,9 @@ The change was due to steady growth of loyalty member purchasing habits; at the 
 
 Average Order Value (AOV) for loyalty members has remained very consistent after the first year, averaging $225 for all four years. Non-loyalty AOV has been higher (averaging $263) but slightly more volatile, spiking in orders during the height of the pandemic until June of 2021 where dropping below the AOV of loyalty members for the next year and a half.
 
-## Regional Differences Among Loyalty and Non-Loyalty Members
+## Regional Spending Among Loyalty and Non-Loyalty Members
 
+## NA Product Sales Among Loyalty and Non-Loyalty Members
 
 
 # Refund Rates
