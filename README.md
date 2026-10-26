@@ -98,6 +98,27 @@ Average Order Value (AOV) for loyalty members has remained very consistent after
 
 ## NA Product Sales Among Loyalty and Non-Loyalty Members
 
+<img width="3953" height="1025" alt="image" src="https://github.com/user-attachments/assets/4d7314dd-d115-4f65-a675-a7602a8a3b8a" />
+
+### Loyalty Customer Sales
+
+| Product | 2019 | 2020 | 2021 | 2022 |
+| --- | --- | --- | --- | --- |
+| 27in 4K Gaming Monitor |  |  |  |  |  |
+| Apple Airpods Headphones |  |  |  |  |  |
+| Macbook Air Laptop |  |  |  |  |  |
+| ThinkPad Laptop |  |  |  |  |  |
+| Other Products |  |  |  |  |  |
+
+### Non-Loyalty Customer Sales
+
+| Product | 2019 | 2020 | 2021 | 2022 |
+| --- | --- | --- | --- | --- |
+| 27in 4K Gaming Monitor |  |  |  |  |  |
+| Apple Airpods Headphones |  |  |  |  |  |
+| Macbook Air Laptop |  |  |  |  |  |
+| ThinkPad Laptop |  |  |  |  |  |
+| Other Products |  |  |  |  |  |
 
 # Refund Rates
 ## Apple Products and Refunds
