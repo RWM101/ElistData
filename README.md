@@ -108,13 +108,15 @@ Average Order Value (AOV) for loyalty members has remained very consistent after
 | 2022 | $1,556,606.08 | $1,148,897.66 | 58% | 42% |
 | **Total** |  **$5,799,222.04** |  **$8,752,814.28**  | **40%** | **60%** |
 
-
+### Loyalty Members
 
 Loyalty members in NA were weighted heavily towards 27in 4K Gaming Monitor and Apple Airpod Headphones, accounting for 80% of all sales among. While quite volatile, overall sales followed a standard bell curve as sales spiked during Covid-19. The Thinkpad Laptop had volatile sales, hitting peaks at the end of 2020, and again in August of 2021. Macbook Air Laptop sales didn't occur among loyalty members until 7/31/2021.
 
+## Non-Loyalty Members
+
 NA Non-loyalty member sales were led by the Macbook Air Laptop in 2020, accounting for 40% of all sales of that year. By 2021, those sales had dropped by 52%, dropping again in 2022 by 66%. The 27in 4K Gaming Monitor was initially the top seller in 2019, accounting for 38% of sales. Sales of the 27in 4K Gaming Monitor were eclipsed by the Macbook Air Laptop, but in 2021 and 2022 sales of the Macbook Air Laptop had dropped so much that the 27in 4K Gaming Monitor again became the top-seller among non-loyalty members.
 
-
+Apple Airpods Headphones had volatile but stable growth in 2019 and 2020, hitting two peaks of >$64,000 in September 2020. By the start of 2021 sales began to tumble, hitting $22,000 by February 2021; which sales rarely exceeded for the remaining two years. ThinkPad Laptop sales never exceeded the other products, but had similar behavior: peak sales in 2020 followed by a dip in sales over the following two years. On average, ThinkPad Laptops accounted for only 13% of sales, but did exceed 20% in three separate months: 6/19, 8/21, and 4/22.
 
 # Refund Rates
 ## Apple Products and Refunds
