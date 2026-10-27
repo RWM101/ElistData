@@ -14,7 +14,7 @@ The work below is research on the overall trends at Elist, focused on the peak-C
 
 | Sales | Growth | Loyalty | Refunds |
 | --- | --- | --- | --- |
-| This is the paragraph where I summarize findings. <br><br><ul><li>Item 1</li> <li>Item 2</li><li>Item 3</li></ul> | This is the paragraph where I summarize findings. <br><br><ul><li>Item 1</li> <li>Item 2</li><li>Item 3</li></ul> | Loyalty customers are a stabilizing force against adverse marketing conditions. <br><br><ul><li>After a surge in sales in 2021, non-loyalty sales drop 51% over a course of three months, falling below loyalty sales numbers.</li> <li>Item 2</li><li>Item 3</li></ul> | This is the paragraph where I summarize findings.<br><br><ul><li>Item 1</li> <li>Item 2</li><li>Item 3</li></ul> |
+| This is the paragraph where I summarize findings. <br><br><ul><li>Item 1</li> <li>Item 2</li><li>Item 3</li></ul> | This is the paragraph where I summarize findings. <br><br><ul><li>Item 1</li> <li>Item 2</li><li>Item 3</li></ul> | Loyalty customers are a stabilizing force against adverse marketing conditions. <br><br><ul><li>Loyalty member sales followed more of a bell curve compared to non-loyalty members, with sales ending higher at the end of 2022 compared to the start of 2019.</li><li>Non-loyalty members did have a spike in sales in 2020, but by the end of 2022 overall sales were lower than at the start of 2019.</li><li>After a surge in sales in 2021, non-loyalty sales drop 51% over a course of three months, falling below loyalty sales numbers.</li> </ul> | This is the paragraph where I summarize findings.<br><br><ul><li>Item 1</li> <li>Item 2</li><li>Item 3</li></ul> |
 
 # Sales Trends
 
@@ -96,9 +96,9 @@ Average Order Value (AOV) for loyalty members has remained very consistent after
 
 ## Regional Spending Among Loyalty and Non-Loyalty Members
 
-<img width="4040" height="1025" alt="image" src="https://github.com/user-attachments/assets/47fad01e-e977-4121-809e-a120c9ed0194" />
+<img width="4040" height="1025" alt="image" src="https://github.com/user-attachments/assets/618370d7-151a-451f-8387-e581f4785616" />
 
-***Work in Progress Section***
+
 
 ## NA Product Sales Among Loyalty and Non-Loyalty Members
 
