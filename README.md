@@ -14,7 +14,7 @@ The work below is research on the overall trends at Elist, focused on the peak-C
 
 | Sales | Growth | Loyalty | Refunds |
 | --- | --- | --- | --- |
-| This is the paragraph where I summarize findings. <br><br><ul><li>Item 1</li> <li>Item 2</li><li>Item 3</li></ul> | This is the paragraph where I summarize findings. <br><br><ul><li>Item 1</li> <li>Item 2</li><li>Item 3</li></ul> | This is the paragraph where I summarize findings. <br><br><ul><li>Item 1</li> <li>Item 2</li><li>Item 3</li></ul> | This is the paragraph where I summarize findings.<br><br><ul><li>Item 1</li> <li>Item 2</li><li>Item 3</li></ul> |
+| This is the paragraph where I summarize findings. <br><br><ul><li>Item 1</li> <li>Item 2</li><li>Item 3</li></ul> | This is the paragraph where I summarize findings. <br><br><ul><li>Item 1</li> <li>Item 2</li><li>Item 3</li></ul> | Loyalty customers are a stabilizing force against adverse marketing conditions. <br><br><ul><li>After a surge in sales in 2021, non-loyalty sales drop 51% over a course of three months, falling below loyalty sales numbers.</li> <li>Item 2</li><li>Item 3</li></ul> | This is the paragraph where I summarize findings.<br><br><ul><li>Item 1</li> <li>Item 2</li><li>Item 3</li></ul> |
 
 # Sales Trends
 
@@ -99,6 +99,11 @@ Average Order Value (AOV) for loyalty members has remained very consistent after
 ## NA Product Sales Among Loyalty and Non-Loyalty Members
 
 <img width="3953" height="1025" alt="image" src="https://github.com/user-attachments/assets/4d7314dd-d115-4f65-a675-a7602a8a3b8a" />
+
+Loyalty members in NA were weighted heavily towards 27in 4K Gaming Monitor and Apple Airpod Headphones, accounting for 80% of all sales among. While quite volatile, overall sales followed a standard bell curve as sales spiked during Covid-19. The Thinkpad Laptop had volatile sales, hitting peaks at the end of 2020, and again in August of 2021. Macbook Air Laptop sales didn't occur among loyalty members until 7/31/2021.
+
+NA Non-loyalty member sales were led by the Macbook Air Laptop in 2020, accounting for 40% of all sales of that year. By 2021, those sales had dropped by 52%, dropping again in 2022 by 66%. The 27in 4K Gaming Monitor was initially the top seller in 2019, accounting for 38% of sales. Sales of the 27in 4K Gaming Monitor were eclipsed by the Macbook Air Laptop, but in 2021 and 2022 sales of the Macbook Air Laptop had dropped so much that the 27in 4K Gaming Monitor again became the top-seller among non-loyalty members.
+
 
 ### Loyalty Customer Sales
 
