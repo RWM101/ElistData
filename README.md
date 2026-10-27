@@ -98,7 +98,40 @@ Average Order Value (AOV) for loyalty members has remained very consistent after
 
 <img width="4040" height="1025" alt="image" src="https://github.com/user-attachments/assets/618370d7-151a-451f-8387-e581f4785616" />
 
+Among the different regions, All loyalty members had higher sales by the end of 2022 than how sales started at the start of 2019. This may be an anomaly depending on when the loyalty program was started, but all regions of non-loyalty members are now lower than how sales started at the start of 2019. From this, loyalty membership is likely a reliable stabilizing force against market fluctuations. Both membership types had sales dominated by the NA market.
 
+### Regional Spending Among Loyalty Members
+
+| Period | Region | Initial Combined Sales | New Combined Sales | Percent Change |
+| --- | --- | --- | --- | --- |
+| Early 2020 | NA | $47,072.19 | $140,964.49 | 199% |
+| 2020-2021 | APAC, EMEA, NA | $228,318.25 | $439,978.77 | 93% |
+| 2021-2022 | APAC, EMEA, NA | $478,150.57 | $260,220.88 | -46% |
+| Late 2022 | NA | $160,393.86 | $44,310.3 | -72% |
+
+Loyalty members had two surges in sales, one by the NA region at the start of 2020, where NA sales went up 199%, and then another at the end of 2020 when sales among APAC, EMEA, and NA went up 93%. LATAM had similar fluctuations, but their sales were both smaller and more even than APAC, EMEA, and NA.
+
+There were also two large drops among loyalty members, mirroring the prior boost in sales but less extreme. One was during winter of 2021/2022, when sales among APAC, EMEA, and NA dropped 46%, and then another at the end of 2022, when NA sales dropped 72%.
+
+Ultimately, sales among loyalty members were more stable, and more closely resembles a bell curve, compared to non-loyalty members. Looking at the four years together, sales for loyalty members ended-up higher than where they began.
+
+With it being the largest market, NA sales will be looked at in more detail later on.
+
+### Regional Spending Among Non-Loyalty Members
+
+| Period | Region | Initial Combined Sales | New Combined Sales | Percent Change |
+| --- | --- | --- | --- | --- |
+| 2019-2020 | EMEA, NA | $215,203.18 | $548,241.28 | 155% |
+| 2020-2021 | EMEA, NA | $659,746.07 | $306,606.29 | -54% |
+| 2021-2022 | EMEA, NA | $290,697.65 | $167,938.97 | -42% |
+
+Non-loyalty members had one large surge as 2019 transitioned to 2020, where sales among EMEA and NA increased 155% over six months. APAC and LATAM also had a sales boost, but the majority of sales came from EMEA and NA.
+
+There were two large drops in sales. The first was winter of 2020/2021, where EMEA and NA sales dropped 54% over two months. Sales fluctuated significantly in that time, before another drop occurred in the winter of 2021/2022, when sales for EMEA and NA again dropped by 42%. There was another drop in October of 2022, but at that point sales for all regions were already lower than where they started in 2019.
+
+Ultimately, sales among non-loyalty members were far more susceptible to market forces, responding very clearly to Covid-19, for example. However, from 2021 onward sales were on average in freefall; sales were never replenished from non-loyalty members for the last two years, with all regions making less money by the end of 2022 compared to the start of 2019.
+
+With it being the largest market, NA sales will be looked at in more detail later on.
 
 ## NA Product Sales Among Loyalty and Non-Loyalty Members
 
