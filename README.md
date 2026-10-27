@@ -1,5 +1,3 @@
-<img width="1014" height="490" alt="image" src="https://github.com/user-attachments/assets/08e1cd4b-4fb0-4ebe-b8a4-f84a1833f392" />
-
 # Company and Project Goal
 Elist is an e-commerce company based in the U.S.
 
