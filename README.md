@@ -100,30 +100,21 @@ Average Order Value (AOV) for loyalty members has remained very consistent after
 
 <img width="3953" height="1025" alt="image" src="https://github.com/user-attachments/assets/4d7314dd-d115-4f65-a675-a7602a8a3b8a" />
 
+| Year | Loyalty Member Sales | Non-Loyalty Member Sales | Loyalty Member % of Total Sales | Non-Loyalty Member % of Total Sales |
+| --- | --- | --- | --- | --- |
+| 2019 | $239,359.01 | $1,842,267.69 | 11% | 89% |
+| 2020 | $1,559,493.23 | $3,745,409.03 | 25% | 71% |
+| 2021 | $2,443,763.72 | $2,016,239.9 | 55% | 45% |
+| 2022 | $1,556,606.08 | $1,148,897.66 | 58% | 42% |
+| **Total** |  **$5,799,222.04** |  **$8,752,814.28**  | **40%** | **60%** |
+
+
+
 Loyalty members in NA were weighted heavily towards 27in 4K Gaming Monitor and Apple Airpod Headphones, accounting for 80% of all sales among. While quite volatile, overall sales followed a standard bell curve as sales spiked during Covid-19. The Thinkpad Laptop had volatile sales, hitting peaks at the end of 2020, and again in August of 2021. Macbook Air Laptop sales didn't occur among loyalty members until 7/31/2021.
 
 NA Non-loyalty member sales were led by the Macbook Air Laptop in 2020, accounting for 40% of all sales of that year. By 2021, those sales had dropped by 52%, dropping again in 2022 by 66%. The 27in 4K Gaming Monitor was initially the top seller in 2019, accounting for 38% of sales. Sales of the 27in 4K Gaming Monitor were eclipsed by the Macbook Air Laptop, but in 2021 and 2022 sales of the Macbook Air Laptop had dropped so much that the 27in 4K Gaming Monitor again became the top-seller among non-loyalty members.
 
 
-### Loyalty Customer Sales
-
-| Product | 2019 | 2020 | 2021 | 2022 |
-| --- | --- | --- | --- | --- |
-| 27in 4K Gaming Monitor |  |  |  |  |  |
-| Apple Airpods Headphones |  |  |  |  |  |
-| Macbook Air Laptop |  |  |  |  |  |
-| ThinkPad Laptop |  |  |  |  |  |
-| Other Products |  |  |  |  |  |
-
-### Non-Loyalty Customer Sales
-
-| Product | 2019 | 2020 | 2021 | 2022 |
-| --- | --- | --- | --- | --- |
-| 27in 4K Gaming Monitor |  |  |  |  |  |
-| Apple Airpods Headphones |  |  |  |  |  |
-| Macbook Air Laptop |  |  |  |  |  |
-| ThinkPad Laptop |  |  |  |  |  |
-| Other Products |  |  |  |  |  |
 
 # Refund Rates
 ## Apple Products and Refunds
