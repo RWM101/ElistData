@@ -96,6 +96,10 @@ Average Order Value (AOV) for loyalty members has remained very consistent after
 
 ## Regional Spending Among Loyalty and Non-Loyalty Members
 
+<img width="4040" height="1025" alt="image" src="https://github.com/user-attachments/assets/47fad01e-e977-4121-809e-a120c9ed0194" />
+
+***Work in Progress Section***
+
 ## NA Product Sales Among Loyalty and Non-Loyalty Members
 
 <img width="3953" height="1025" alt="image" src="https://github.com/user-attachments/assets/4d7314dd-d115-4f65-a675-a7602a8a3b8a" />
