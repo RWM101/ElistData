@@ -12,11 +12,11 @@ The work below is research on the overall trends at Elist, focused on the peak-C
 # Executive Summary
 <img width="1927" height="1182" alt="image" src="https://github.com/user-attachments/assets/902db419-e952-4e16-972e-f3b64b3a95d5" />
 
-| Sales | Growth | Loyalty | Refunds |
-| --- | --- | --- | --- |
-| This is the paragraph where I summarize findings. <br><br><ul><li>Item 1</li> <li>Item 2</li><li>Item 3</li></ul> | This is the paragraph where I summarize findings. <br><br><ul><li>Item 1</li> <li>Item 2</li><li>Item 3</li></ul> | Loyalty customers are a stabilizing force against adverse marketing conditions. <br><br><ul><li>Loyalty member sales followed more of a bell curve compared to non-loyalty members, with sales ending higher at the end of 2022 compared to the start of 2019.</li><li>Non-loyalty members did have a spike in sales in 2020, but by the end of 2022 overall sales were lower than at the start of 2019.</li><li>After a surge in sales in 2021, non-loyalty sales drop 51% over a course of three months, falling below loyalty sales numbers.</li> </ul> | This is the paragraph where I summarize findings.<br><br><ul><li>Item 1</li> <li>Item 2</li><li>Item 3</li></ul> |
+| Sales & Growth | Loyalty | Refunds |
+| --- | --- | --- |
+| This is the paragraph where I summarize findings. <br><br><ul><li>Item 1</li> <li>Item 2</li><li>Item 3</li></ul> | Loyalty customers are a stabilizing force against adverse marketing conditions. <br><br><ul><li>Loyalty member sales followed more of a bell curve compared to non-loyalty members, with sales ending higher at the end of 2022 compared to the start of 2019.</li><li>Non-loyalty members did have a spike in sales in 2020, but by the end of 2022 overall sales were lower than at the start of 2019.</li><li>After a surge in sales in 2021, non-loyalty sales drop 51% over a course of three months, falling below loyalty sales numbers.</li> </ul> | This is the paragraph where I summarize findings.<br><br><ul><li>Item 1</li> <li>Item 2</li><li>Item 3</li></ul> |
 
-# Sales Trends
+# Sales & Growth Trends
 
 <img width="2396" height="886" alt="image" src="https://github.com/user-attachments/assets/1742eecc-1347-484c-91bc-70e72fb50bd8" />
 
@@ -57,22 +57,6 @@ By the end of 2020 all products are doing well into the first large drop in sale
 
 By the end of 2021, the highest sales month is only 81% of the prior year, with only the 27in 4K Gaming Monitor bouncing back (with the 2021 high point being 98% of last year's high point). This is when the next large drop in sales occurs, and sales again drop by **51%**. All products follow the same trajectory as last year, except for the ThinkPad Laptops, which loses sales over five months instead of the standard two months. Macbook Air Laptops, still struggling more than other products to recover from the prior drop in sales, sheds half (48%) of its total sales again. The aftermath of this drop is very different; no products recover over the following year, with only Apple Airpods Headphones recovering the most with a high point 60% of it's high point last year...
 
-
-# Monthly and Yearly Growth Rates
-
-<img width="3017" height="1055" alt="image" src="https://github.com/user-attachments/assets/56b4e5c6-03cd-4cd2-8f28-3834b99ef8ad" />
-
-### Sales Growth Rates
-
-Growth rates follow sales amounts relatively closely. Sales growth rates were quite strong in the first two years, until the end of 2020, growing to 150% of the value since January of 2019. 2021 and 2022 showed a gradual, steady decline from that high point, dropping to only a 50% increase from the original January 2019 value.
-
-### Order Count Growth Rates
-
-Order count was more steady, maintaining its high value throughout 2021. 2022 showed a steady decline, plummeting near the end of the year before bouncing back somewhat by December. All in all, like the sales growth, order counts increased overall by 50% over the four years.
-
-### AOV Growth Rates
-
-Average Order Value (AOV) was more volatile overall but over a narrower band of results. For a time, AOV was up about 40% before dropping by half over just a few months and continued dropping more aggressively than Sales and order count growth. Overall, AOV increased only 15% from 2019-2022.
 
 # Loyalty Program
 
