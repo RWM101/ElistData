@@ -140,6 +140,11 @@ NA Non-loyalty member sales were led by the Macbook Air Laptop in 2020, accounti
 Apple Airpods Headphones had volatile but stable growth in 2019 and 2020, hitting two peaks of >$64,000 in September 2020. By the start of 2021 sales began to tumble, hitting $22,000 by February 2021; which sales rarely exceeded for the remaining two years. ThinkPad Laptop sales never exceeded the other products, but had similar behavior: peak sales in 2020 followed by a dip in sales over the following two years. On average, ThinkPad Laptops accounted for only 13% of sales, but did exceed 20% in three separate months: 6/19, 8/21, and 4/22.
 
 # Refund Rates
+
+Refund rates are an interesting metric, because refund dates are, generally, between nearly two years and five years after the original purchase date. This is very unusual, and as a result there is zero return data over the last two years of this data set.
+
+<img width="1978" height="932" alt="image" src="https://github.com/user-attachments/assets/ff808e42-cc1c-42c5-b772-f12fdea6175b" />
+
 ## Apple Products and Refunds
 ### Apple Products
 ### Refunds
