@@ -143,7 +143,19 @@ Apple Airpods Headphones had volatile but stable growth in 2019 and 2020, hittin
 
 Refund rates are an interesting metric, because refund dates are, generally, between nearly two years and five years after the original purchase date. This is very unusual, and as a result there is zero return data over the last two years of this data set.
 
-<img width="1978" height="932" alt="image" src="https://github.com/user-attachments/assets/ff808e42-cc1c-42c5-b772-f12fdea6175b" />
+<img width="1978" height="932" alt="image" src="https://github.com/user-attachments/assets/aed5a80b-7637-4032-9040-291b9d334578" />
+
+| Product | 2019 Returns | 2020 Returns | 2021 Returns | 2022 Returns |
+| --- | --- | --- | --- | --- |
+| 27in 4K Gaming Monitor | 256 | 820 | 369 | 0 |
+| Apple Airpods Headphones | 473 | 1,529 | 634 | 0 |
+| Apple iPhone | 5 | 13 | 4 | 0 |
+| Bose Soundsport Headphones | 0 | 0 | 0 | 0 |
+| Macbook Air Laptop | 67 | 311 | 75 | 0 |
+| Samsung Charging Cable Pack | 102 | 151 | 41 | 0 |
+| Samsung Webcam | 0 | 99 | 87 | 0 |
+| ThinkPad Laptop | 62 | 197 | 84 | 0 |
+| **Total** | **965** | **3,120** | **1,294** | **0** |
 
 ## Apple Products and Refunds
 ### Apple Products
