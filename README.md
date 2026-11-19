@@ -141,9 +141,9 @@ Apple Airpods Headphones had volatile but stable growth in 2019 and 2020, hittin
 
 # Refund Rates
 
-Refund rates are an interesting metric, because refund dates are, generally, between nearly two years and five years after the original purchase date. This is very unusual, and as a result there is zero return data over the last two years of this data set.
+Refund rates are an interesting metric because refund dates are, generally, between nearly two years and five years after the original purchase date. This is very unusual, and as a result there is zero return data over the last two years of this data set.
 
-<img width="1978" height="932" alt="image" src="https://github.com/user-attachments/assets/aed5a80b-7637-4032-9040-291b9d334578" />
+<img width="1978" height="932" alt="image" src="https://github.com/user-attachments/assets/d7329f56-6836-4229-bb4e-cfe163945a25" />
 
 | Product | 2019 Returns | 2020 Returns | 2021 Returns | 2022 Returns |
 | --- | --- | --- | --- | --- |
@@ -156,6 +156,8 @@ Refund rates are an interesting metric, because refund dates are, generally, bet
 | Samsung Webcam | 0 | 99 | 87 | 0 |
 | ThinkPad Laptop | 62 | 197 | 84 | 0 |
 | **Total** | **965** | **3,120** | **1,294** | **0** |
+
+Returns happened predominately between two product lines, the 27in 4K Gaming Monitor and the Apple Airpods Headphones. For each year, at least 75% of all returns were from these two products.
 
 ## Apple Products and Refunds
 ### Apple Products
