@@ -143,7 +143,8 @@ Apple Airpods Headphones had volatile but stable growth in 2019 and 2020, hittin
 
 Refund rates are an interesting metric because refund dates are, generally, between nearly two years and five years after the original purchase date. This is very unusual, and as a result there is zero return data over the last two years of this data set.
 
-<img width="1978" height="932" alt="image" src="https://github.com/user-attachments/assets/d7329f56-6836-4229-bb4e-cfe163945a25" />
+<img width="1982" height="932" alt="image" src="https://github.com/user-attachments/assets/3f3f651d-63ed-4ebb-86e3-8d3e7d98daca" />
+
 
 | Product | 2019 Returns | 2020 Returns | 2021 Returns | 2022 Returns |
 | --- | --- | --- | --- | --- |
