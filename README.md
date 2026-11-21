@@ -161,8 +161,13 @@ Refund rates are an interesting metric because refund dates are, generally, betw
 Returns happened predominately between two product lines, the 27in 4K Gaming Monitor and the Apple Airpods Headphones. For each year, at least 75% of all returns were from these two products.
 
 <img width="1583" height="932" alt="image" src="https://github.com/user-attachments/assets/6d097f3b-e2c1-4218-b0a7-71314cec4ad5" />
-| Date | # of Returns | % of all Sales |
-| --- | --- | --- |
+
+| Date | # of Sales | # of Returns | % of Returns<br>Against All Transactions |
+| --- | --- | --- | --- |
+| 5/31/2020 | 2153 | 250 | 10.4% |
+| 7/31/2020 | 2069 | 235 | 10.2% |
+| 3/31/2021 | 1909 | 223 | 10.5% |
+
 
 ## Apple Products and Refunds
 ### Apple Products
